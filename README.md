@@ -1,1 +1,1 @@
-Public data referenced IPs used for telemetry data purposes.
+Public reference IP data used for telemetry-related purposes.
